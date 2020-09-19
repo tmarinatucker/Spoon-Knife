@@ -11,6 +11,6 @@ end
 
 helpers do
   def process_pull_request(pull_request)
-    puts "It's #{pull_request['title']}"
+    puts "Its #{pull_request['title']}"
   end
 end
